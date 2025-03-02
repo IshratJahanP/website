@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ishrat-jahan.jpkcom.de/sitemap.xml
